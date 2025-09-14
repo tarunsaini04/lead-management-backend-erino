@@ -118,10 +118,4 @@ npm run dev
 ...and more!
 
 
-📌 Next Steps
 
-🛡️ Add Role-Based Access Control (RBAC)
-
-📊 Implement Analytics & Reports
-
-🧪 Add Unit & Integration Tests
